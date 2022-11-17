@@ -1,5 +1,5 @@
 # deep-learning-projects
-This repository has several deep learning projects that I practiced throughout my self study deep learning course
+This repository has lecture slides, code samples and several deep learning projects that I practiced throughout my self study deep learning course
 
 ## Project 1 
 Concrete Quality Prediction using ANN
